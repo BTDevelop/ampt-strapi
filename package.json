@@ -26,5 +26,12 @@
     "node": ">=16.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "ampt": {
+    "org": "clubwomanizer588499916",
+    "app": "ampt-strapi"
+  },
+  "files": [
+    "*"
+  ]
 }
